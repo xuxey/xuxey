@@ -9,7 +9,7 @@
   3. Next.js (Self-Learning)
 ### 👯 I’m looking to collaborate on anything that piques my interest and is potentially impactful
 - 💬 Ask me about Java, Food, Life, Memes, JS, Git and Polybridge
-- ⚡ Fun fact: I'm a huge Brookln Nine-Nine fan
+- ⚡ Fun fact: I'm a huge Brooklyn Nine-Nine fan
 <!--
 **xuxey/xuxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
