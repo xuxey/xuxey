@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on 
-  1. Plugins for a game server
+  1. (Lantern)[https://github.com/open-source-at-illinois/lantern]: LAN Based file-sharing application.
   2. A library website with react/graphQL/node.js
 ### 🌱 I’m currently learning 
   1. Software Design Studio (CS 126 @ UIUC)
