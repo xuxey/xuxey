@@ -4,8 +4,7 @@
   1. HackIllinois Open Source Fellowship
   2. A library website with react/graphQL/node.js
 ### 🌱 I’m currently learning 
-  1. Software Design Studio (CS 126 @ UIUC)
-  2. Discrete Structures (CS 173 @ UIUC)
+  1. Data Structures (CS 225 @ UIUC)
   3. Next.js (Self-Learning)
 ### 👯 I’m looking to collaborate on anything that piques my interest and is potentially impactful
 - 💬 Ask me about Java, Food, Life, Memes, JS, Git and Polybridge
