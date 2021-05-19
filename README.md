@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on 
-  1. HackIllinois Open Source Fellowship
-  2. A library website with react/graphQL/node.js
+  1. College Pathways AI4ALL program
 ### 🌱 I’m currently learning 
   1. Data Structures (CS 225 @ UIUC)
-  3. Next.js (Self-Learning)
+  2. React Native
 ### 👯 I’m looking to collaborate on anything that piques my interest and is potentially impactful
 - 💬 Ask me about Java, Food, Life, Memes, JS, Git and Polybridge
 - ⚡ Fun fact: I'm a huge Brooklyn Nine-Nine fan
