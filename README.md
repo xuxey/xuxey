@@ -2,9 +2,11 @@
 
 ### 🔭 I’m currently working on 
   1. College Pathways AI4ALL program
+  2. Computer Vision Intern at Reliance Industries Limited
 ### 🌱 I’m currently learning 
-  1. Data Structures (CS 225 @ UIUC)
-  2. React Native
+  1. OpenCV
+  2. Machine Learning (SciKit Learn, Pandas, Tensorflow)
+  3. React Native
 ### 👯 I’m looking to collaborate on anything that piques my interest and is potentially impactful
 - 💬 Ask me about Java, Food, Life, Memes, JS, Git and Polybridge
 - ⚡ Fun fact: I'm a huge Brooklyn Nine-Nine fan
