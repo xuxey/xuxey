@@ -1,13 +1,12 @@
 ## Hi there 👋
 <!--
 ### 🔭 I’m currently working on 
-  1. College Pathways AI4ALL program
-  2. Computer Vision Intern at Reliance Industries Limited
+  1. Open Source at Illinois, UIUC's Premier Open-Source Software Club
+  2. Course Assistant, CS:225 Data Structures at UIUC
 -->
 ### 🌱 I’m currently learning 
-  1. OpenCV
-  2. Machine Learning (SciKit Learn, Pandas, Tensorflow)
-  3. React Native
+  1. Computer Architecture
+  2. Machine Learning, Probability and statistics 
 ### 👯 I’m looking to collaborate on anything that piques my interest and is potentially impactful
 - 💬 Ask me about CS, Food, Life, Memes, JS, and Git
 - ⚡ Fun fact: I'm a Brooklyn Nine-Nine fan
