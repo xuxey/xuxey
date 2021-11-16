@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning 
   1. Computer Architecture
   2. Machine Learning, Probability and statistics 
-### 👯 I’m looking to collaborate on anything that piques my interest and is potentially impactful
+### 👯 Let's talk!
 - 💬 Ask me about CS, Food, Life, Memes, JS, and Git
 - ⚡ Fun fact: I'm a Brooklyn Nine-Nine fan
 <!--
