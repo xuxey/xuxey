@@ -9,7 +9,6 @@
   1. Systems Programming
   2. Artificial Intelligence
   3. Numerical Methods
-  4. 
 
 ### 👯 Let's talk!
 - 💬 Ask me about CS, Food, Life, Memes, JS, and Git
