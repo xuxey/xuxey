@@ -1,15 +1,20 @@
 ## Hi there 👋
-<!--
-### 🔭 I’m currently working on 
-  1. Open Source at Illinois, UIUC's Premier Open-Source Software Club
+
+### 🔭 I’m currently working as a 
+  1. President, Open Source at Illinois: UIUC's Premier Open-Source Software Club
   2. Course Assistant, CS:225 Data Structures at UIUC
--->
+  3. Course Assistant, CS:126 Software Design Studio at UIUC
+
 ### 🌱 I’m currently learning 
-  1. Computer Architecture
-  2. Machine Learning, Probability and statistics 
+  1. Systems Programming
+  2. Artificial Intelligence
+  3. Numerical Methods
+  4. 
+
 ### 👯 Let's talk!
 - 💬 Ask me about CS, Food, Life, Memes, JS, and Git
 - ⚡ Fun fact: I'm a Brooklyn Nine-Nine fan
+
 <!--
 **xuxey/xuxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
