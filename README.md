@@ -4,6 +4,7 @@
   1. President, Open Source at Illinois: UIUC's Premier Open-Source Software Club
   2. Course Assistant, CS:225 Data Structures at UIUC
   3. Course Assistant, CS:126 Software Design Studio at UIUC
+  4. Conference Staff: Content Team @ReflectionsProjections
 
 ### 🌱 I’m currently learning 
   1. Systems Programming
