@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-### 🔭 I’m currently working as a 
-  1. President, Open Source at Illinois: UIUC's Premier Open-Source Software Club
-  2. Course Assistant, CS:225 Data Structures at UIUC
-  3. Course Assistant, CS:126 Software Design Studio at UIUC
-  4. Conference Staff: Content Team @ReflectionsProjections
+### 🔭 What's on my plate these days
+  1. President, [Open Source at Illinois](http://opensourceatillinois.com/)
+  2. Content Team, [Reflections | Projections](https://www.reflectionsprojections.org/)
+  3. Researcher at [misinfolab](https://www.misinfolab.com) via Discovery Partners Institute
 
 ### 🌱 I’m currently learning 
-  1. Systems Programming
-  2. Artificial Intelligence
-  3. Numerical Methods
-
-### 👯 Let's talk!
-- 💬 Ask me about CS, Food, Life, Memes, JS, and Git
-- ⚡ Fun fact: I'm a Brooklyn Nine-Nine fan
+  1. Distributed Systems
+  2. Social & Information Networks
+  3. Computational Photography
+  4. Technology Strategy
+  5. New Product Marketing
 
 <!--
 **xuxey/xuxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
