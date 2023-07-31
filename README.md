@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 ### 🔭 What's on my plate these days
-  1. President, [Open Source at Illinois](http://opensourceatillinois.com/)
-  2. Dev Chair, [Reflections | Projections](https://www.reflectionsprojections.org/)
-  3. Researcher at [misinfolab](https://www.misinfolab.com) via Discovery Partners Institute
+  1. Dev Chair, [Reflections | Projections](https://www.reflectionsprojections.org/)
+  2. Senior Director of Technology, [Engineering Open House](https://eohillinois.org/)
 
 ### 🌱 I’m currently learning 
   1. Algorithms (CS 374)
