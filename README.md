@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🌱 Involvements
 
-### 🔭 What's on my plate these days
-  1. Dev Chair, [Reflections | Projections](https://www.reflectionsprojections.org/)
-  2. Senior Director of Technology, [Engineering Open House](https://eohillinois.org/)
+Former chair, [Open-Source at Illinois](https://opensourceatillinois.com/).
 
-### 🌱 I’m currently learning 
-  1. Algorithms (CS 374)
-  2. Database Systems (CS 411)
-  3. New Product Development
+Read about my experience running [Reflections Projections](https://reflectionsprojections.org/) systems [here](https://medium.com/@sohamk2/how-we-reimagined-midwests-premier-technology-conference-503865f546bb).
+
+Check out [Engineering Open House](https://eohillinois.org).
+
+Class XXVIII, [Hoeft Technology & Management Program](https://hoefttechmgmt.web.illinois.edu/).
+
+## 📖 Getting started with Computer Science
+A list of resources I reccommend wholeheartedly
+- https://fullstackopen.com/en/
+- https://roadmap.sh/
+- https://learnxinyminutes.com/
+- https://cs341.cs.illinois.edu/coursebook/index.html
+- https://www.digitalocean.com/community/tutorials
+- https://believed-bestseller-bd6.notion.site/From-Data-Structures-to-Algorithm-Interviews-b0ff97687070460fad468b695b988eed
 
 <!--
-**xuxey/xuxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xuxey/xuxey** isa ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
