@@ -8,6 +8,13 @@ Check out [Engineering Open House](https://eohillinois.org).
 
 Class XXVIII, [Hoeft Technology & Management Program](https://hoefttechmgmt.web.illinois.edu/).
 
+### Work Experience
+
+2024: Incoming Software Engineer at AWS 
+2023 SDE Intern, Amazon Web Services
+2022 SWE Intern, Kocree Inc.
+2021 SWE Intern, Reliance Industries Limited.
+
 ## 📖 Getting started with Computer Science
 A list of resources I reccommend wholeheartedly
 - https://fullstackopen.com/en/
