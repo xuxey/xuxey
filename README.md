@@ -1,12 +1,12 @@
 ## 🌱 Involvements
 
-Former chair, [Open-Source at Illinois](https://opensourceatillinois.com/).
+Former President, [Open-Source at Illinois](https://opensourceatillinois.com/) 2021-23.
 
-Read about my experience running [Reflections Projections](https://reflectionsprojections.org/) systems [here](https://medium.com/@sohamk2/how-we-reimagined-midwests-premier-technology-conference-503865f546bb).
+Systems & Development Chair, [Reflections Projections](https://reflectionsprojections.org/). Read about my experiences [here](https://medium.com/@sohamk2/how-we-reimagined-midwests-premier-technology-conference-503865f546bb) 2023.
 
-Check out [Engineering Open House](https://eohillinois.org).
+Senior Director of Technology, [Engineering Open House](https://eohillinois.org) 2024.
 
-Class XXVIII, [Hoeft Technology & Management Program](https://hoefttechmgmt.web.illinois.edu/).
+Class XXVIII, [Hoeft Technology & Management Program](https://hoefttechmgmt.web.illinois.edu/) 2021-24.
 
 ### 📫 Work Experience
 
