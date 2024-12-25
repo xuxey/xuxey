@@ -18,6 +18,7 @@ Class XXVIII, [Hoeft Technology & Management Program](https://hoefttechmgmt.web.
 ## 📖 Getting started with Computer Science
 A list of resources I reccommend wholeheartedly
 - https://fullstackopen.com/en/
+- https://missing.csail.mit.edu/
 - https://roadmap.sh/
 - https://learnxinyminutes.com/
 - https://cs341.cs.illinois.edu/coursebook/index.html
